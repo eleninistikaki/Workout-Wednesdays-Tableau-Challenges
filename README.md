@@ -1,2 +1,2 @@
-# advanced_tableau_graphs
-Advanced Tableau Graphs
+# Workout Wednesdays
+Tableau Challenges

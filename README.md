@@ -1,2 +1,2 @@
 # Workout Wednesdays
-Tableau Challenges
+Weekly Tableau Challenges

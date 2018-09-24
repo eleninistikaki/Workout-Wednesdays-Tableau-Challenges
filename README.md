@@ -2,7 +2,13 @@
 
 Workout Wednesday is a set of weekly challenges, where the challengers are given specific elements and data and they have to create a Tableau Dashboard or Story.
 
-Workout Wednesday Website: http://www.workout-wednesday.com
+[Workout Wednesday Website](http://www.workout-wednesday.com)
+
+## Tableau Desktop View
+
+1. Download `Superstore Sample` and open it
+2. Download the graph you wish to view in Tableau Desktop and open it
+3. Enjoy!
 
 ## Tableau Public View
 

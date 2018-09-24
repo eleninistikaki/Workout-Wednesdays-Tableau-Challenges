@@ -2,7 +2,14 @@
 
 Workout Wednesday is a set of weekly challenges, where the challengers are given specific elements and data and they have to create a Tableau Dashboard or Story.
 
+## Sources
+
 [Workout Wednesday Website](http://www.workout-wednesday.com)
+
+## Built With
+
+* [Tableau](https://tableau.com/) - The data visualization tool used
+
 
 ## Tableau Desktop View
 
